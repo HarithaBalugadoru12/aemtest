@@ -17,7 +17,7 @@
     n.c = t,
     n.d = function (e, t, r) {
         n.o(e, t) || Object.defineProperty(e, t, {
-            enumerable: !0,
+            enumerable: !0;
             get: r
         })
     },
